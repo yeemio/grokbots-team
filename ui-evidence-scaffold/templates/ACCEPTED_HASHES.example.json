@@ -1,0 +1,13 @@
+{
+  "packages/integration-dsh/client/company-operations/company-c01-lifecycle-panel.jsx": "02e130269903017785dc2bcbd4f7a3767956a7f18aa2d4b12835551f2c1bf68b",
+  "packages/integration-dsh/client/company-operations/company-dual-client-panel.jsx": "d34b389216e5bb5259d08c18e9e1ea5f78496342c79ab0bd5e0dc14872433fef",
+  "packages/integration-dsh/client/company-operations/company-c02-lifecycle-panel.jsx": "35b0dae11f8eb226a3e05566ef7116906bbc6b89bada433fe295d0beba6350d4",
+  "packages/integration-dsh/client/company-operations/company-content-collaboration-panel.jsx": "be482642f7bc20b4330b1714848d0be926e989e0161d02f36a6f68e818a47ce6",
+  "packages/integration-dsh/client/source.jsx": "4b5bc395e85510e656aee3fad9e87c0635f65ef70111ddcd24cfa6cc5ba0bf83",
+  "packages/integration-dsh/client/style-system.js": "842d0f2731086c58695ad3b63750a6312d24565f25cbb6a0217eb81aaca320cc",
+  "packages/integration-dsh/client/product-design/components.jsx": "d8a5a970dd56e8ec7be6093afab3432f5d361848ae14f964a49b2dd48ee36e6b",
+  "packages/integration-dsh/client/product-design/index.js": "49f09e61614d0598d5b6af2ad4e794513f938c04b2c5e2e576f1343518821808",
+  "packages/integration-dsh/client/product-design/v2/write-flow.js": "25a5dee633512b65f6f4809a9b16a700e713e1336b4a4307ac0d41bde9da7871",
+  "packages/integration-dsh/client/index.js": "62e65e517c51d1931ec5217509d7f59dc9f70f72a427bfb1fdca4a854f028618",
+  "packages/integration-dsh/src/product-launcher.ts": "0d89457e021c138142e9ae1148105156c3d20a93b5b75bbd4598811e2041a7e1"
+}
