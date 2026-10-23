@@ -14,12 +14,12 @@
     "id": "T10",
     "title": "C03 repair evidence REWORK R1",
     "work_dir": "/workspace/OwlcodaE-c03-evidence-20261023",
-    "zcode_session": "session_56783089c50ff41588e812275695a929",
+    "zcode_session": "sess_0a272ebe-453b-4d32-b92f-86e8d6b9dc9a",
     "model": "GLM-5.3",
     "status": "RUNNING",
     "pr_url": "https://github.com/yeemio/owlcodaE/pull/62",
-    "notes": "Codex REWORK R1; ACK posted; FDE priority; no merge",
-    "updated_at": "2026-10-23T10:09:00+08:00"
+    "notes": "PR#62 REWORK R1; new session (not sharing C06); tip 7b60fd95",
+    "updated_at": "2026-10-23T10:10:00+08:00"
   },
   {
     "id": "T11",
