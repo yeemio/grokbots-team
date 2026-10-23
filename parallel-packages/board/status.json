@@ -36,11 +36,11 @@
     "id": "T12",
     "title": "TC13 refund dual",
     "work_dir": "/workspace/OwlcodaE-tc13-refund-20261023",
-    "zcode_session": "",
+    "zcode_session": "sess_fc3afa25-a419-45a5-a09a-1c3b416c2067",
     "model": "GLM-5.3",
-    "status": "DISPATCHED",
+    "status": "RUNNING",
     "pr_url": "",
     "notes": "",
-    "updated_at": "2026-10-23T10:00:00+08:00"
+    "updated_at": "2026-10-23T10:07:20+08:00"
   }
 ]
