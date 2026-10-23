@@ -27,7 +27,7 @@ npm run build:dsh-my-work-client   # placeholder
 npx tsc -b                         # placeholder
 npm run build:native --workspace @owlcoda/business-store  # placeholder
 # --- verify accepted digests ---
-node /path/to/yeemio-ops/ui-evidence-scaffold/scripts/check-accepted-hashes.mjs \
+node /path/to/grokbots-team/ui-evidence-scaffold/scripts/check-accepted-hashes.mjs \
   /path/to/ACCEPTED_HASHES.json \
   "$NEW"
 # optional joint verify:
